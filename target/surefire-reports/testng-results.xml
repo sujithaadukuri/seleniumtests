@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="97671" started-at="2019-08-04T21:36:12Z" finished-at="2019-08-04T21:37:49Z">
+  <suite name="All Test Suite" duration-ms="12600" started-at="2019-08-04T22:22:03Z" finished-at="2019-08-04T22:22:16Z">
     <groups>
     </groups>
-    <test name="C:/Users/User/IdeaProjects/seleniumtest" duration-ms="97671" started-at="2019-08-04T21:36:12Z" finished-at="2019-08-04T21:37:49Z">
+    <test name="C:/Users/User/IdeaProjects/seleniumtest" duration-ms="12600" started-at="2019-08-04T22:22:03Z" finished-at="2019-08-04T22:22:16Z">
       <class name="com.demo.sample.BrowserLaunch">
-        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.demo.sample.BrowserLaunch@2812cbfa]" name="browserlaunch" duration-ms="97267" started-at="2019-08-05T03:06:12Z" finished-at="2019-08-05T03:07:49Z">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.demo.sample.BrowserLaunch@2812cbfa]" name="browserlaunch" duration-ms="12580" started-at="2019-08-05T03:52:04Z" finished-at="2019-08-05T03:52:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserlaunch -->

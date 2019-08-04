@@ -10,7 +10,7 @@ public class BrowserLaunch {
     public void browserlaunch(){
         System.setProperty("webdriver.chrome.driver","C:\\Users\\User\\IdeaProjects\\selenium2\\Drivers\\chromedriver_win32\\chromedriver.exe");
         driver=new ChromeDriver();
-        driver.get("https://www.flipkart.com");
+        driver.get("https://www.myntra.com");
     }
 
 
